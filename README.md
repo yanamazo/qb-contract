@@ -1,6 +1,7 @@
 # qb-contract
 
 Документация https://sortlyapi.docs.apiary.io/#
+Custom attributes https://app.sortly.com/manage-custom-attributes/node
 
 Используемые запросы
 
