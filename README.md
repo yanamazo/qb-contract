@@ -7,6 +7,7 @@
 
 #### PUT https://api.sortly.co/api/v1/items/${folderId} 
 Используется для обновления атрибутов папки в Sortly
+
 Body
 
 1/
