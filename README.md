@@ -20,7 +20,7 @@ Body
 {\"custom_attribute_values\": [{\"custom_attribute_id\": 239296, \"value\": 0},{\"custom_attribute_id\": 221743, \"value\": 2.35}]}
 
 #### GET https://api.sortly.co/api/v1/items?per_page=1000&page=1&folder_id=${folderId}&include=custom_attributes
-Используется для получения данных о хранящихся предметах
+Используется для получения данных о хранящихся предметах в папке (=заказ)
 
 #### GET https://api.sortly.co/api/v1/items/${folderId}?include=custom_attributes
 Используется для получения данных о папке (=заказ)
